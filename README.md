@@ -1,4 +1,1 @@
-Aula de git já já
-
-aula as 16h20 hj
-
+#Repositórios para Projetos e Exercicios do Bloco 02
